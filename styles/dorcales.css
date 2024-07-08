@@ -1,0 +1,34 @@
+body{
+    background-color: #040205;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 20px;
+   
+    /* width: 600px; */
+    /* margin-left: 20px; */
+   
+
+}
+.container h1{
+    color: white;
+    font-size: 50px;
+}
+.dorcel-img{
+    display: flex;
+    justify-content: center;
+    width: 1200px;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 20px;
+   
+    
+}
+.dorcel-img img{
+    width: 800px;
+    /* height: 100px; */
+}

@@ -1,0 +1,12 @@
+.publication{
+    width: 80%;
+    margin: 50px auto;
+    text-align: center;
+}
+
+
+.publication p{
+    /* border: 2px solid blue; */
+    padding: 30px 50px;
+    box-shadow: 2px 2px 15px 2px rgba(55, 103, 234, 0.2);
+}
